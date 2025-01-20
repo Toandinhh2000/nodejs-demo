@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toandinhh2000/nodejs-demo.git"
+  },
+  "keywords": [
+    "dinh",
+    "xuan",
+    "toan",
+    "nodejs"
+  ],
+  "author": "toandx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toandinhh2000/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/Toandinhh2000/nodejs-demo#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
